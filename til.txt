@@ -1,2 +1,5 @@
 1. 앞으로 git 프로젝트로 만들고 싶은 것
+학교 과제물을 git으로도 관리해보고 포트폴리오 써먹기
+
 2. 1주차 주요 개념 키워드 적어보기
+commit, push, pull, clone, repo, tracking
